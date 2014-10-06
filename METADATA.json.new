@@ -1,0 +1,33 @@
+{
+  "name": "Abril Fatface",
+  "designer": "TypeTogether",
+  "license": "OFL",
+  "visibility": "External",
+  "category": "Display",
+  "size": 29201,
+  "fonts": [
+    {
+      "name": "Abril Fatface",
+      "style": "normal",
+      "weight": 400,
+      "filename": "AbrilFatface-Regular.ttf",
+      "postScriptName": "AbrilFatface-Regular",
+      "fullName": "AbrilFatface-Regular",
+      "copyright": "Copyright (c) 2011, Copyright (c) 2011, TypeTogether (www.type-together.com), with Reserved Font Names \"Abril\" and \"Abril Fatface\""
+    },
+    {
+      "name": "Abril Fatface",
+      "style": "normal",
+      "weight": 400,
+      "filename": "AbrilFatface-Regular-TTF.ttf",
+      "postScriptName": "AbrilFatface-Regular",
+      "fullName": "AbrilFatface-Regular",
+      "copyright": "Copyright (c) 2011, Copyright (c) 2011, TypeTogether (www.type-together.com), with Reserved Font Names \"Abril\" and \"Abril Fatface\""
+    }
+  ],
+  "subsets": [
+    "latin",
+    "menu"
+  ],
+  "dateAdded": "2011-08-31"
+}
